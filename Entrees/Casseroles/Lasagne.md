@@ -1,7 +1,7 @@
 ## Lasagna Recipe
 From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 
-**With Oreos and Chocolate icing! ;-)**
+**With Oreos and Chocolate icing! And blueberries ;-)**
 
 **Ingredients**
 * 2 Tbsp olive oil
